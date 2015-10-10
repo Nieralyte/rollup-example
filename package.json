@@ -1,0 +1,16 @@
+{
+  "name": "2015-10-10T21h40m20s_rollup-test",
+  "version": "1.0.0",
+  "description": "blah",
+  "repository": {
+    "type": "git",
+    "url": "(none)"
+  },
+  "author": "Nieralyte",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "rollup": "^0.19.0",
+    "util-jsnext": "^0.10.3"
+  }
+}
